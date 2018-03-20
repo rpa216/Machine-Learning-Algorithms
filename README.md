@@ -5,4 +5,6 @@ Following Algorithms have been implemented so far
 1. KNN
 2. Gradient descent
 3. Linear Regression
+4. Neural Network
+5. CNN model using tensorflow on MNIST data set
 
