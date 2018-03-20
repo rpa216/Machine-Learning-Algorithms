@@ -8,3 +8,4 @@ Following Algorithms have been implemented so far
 4. Neural Network
 5. CNN model using tensorflow on MNIST data set
 4. Using Autoencoder for doing clustering using Kmeans
+5. Simple Decision tree classifier
